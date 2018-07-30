@@ -1,15 +1,42 @@
 {
-  "Title": "Pietà",
-  "Artist": "Michelangelo",
-  "Size": "5’5” x 6’6” x 3’6” (1.55 x 1.98 x 1.06 meters)",
-  "Medium": "Bronze",
-  "Year Created": 1982,
-  "Method of Production": "Mold Cast",
-  "Edition": 8,
-  "Size of Editon": 9,
-  "Number of Foundry Proofs": 3,
-  "Foundry Molds Canceled or Destroyed": null,
-  "Signed By Artist": true,
-  "Insignia of Foundry": true,
-  "Insignia of Moral Rights Claimant": true
+  "@context": "http://schema.org",
+  "@type": "Sculpture",
+  "artform": "cast",
+  "name": "Pietà",
+  "dateCreated": 1982,
+  "material": "Bronze",
+  "creator": {
+    "@type": "Person",
+    "name": "Michelangelo"
+  },
+  "contentLocation": {
+    "@type": "AdministrativeArea",
+    "name": "North Texas"
+  },
+  "width": [
+    {
+      "@type": "Distance",
+      "name": "65 inches"
+    }
+  ],
+  "height": [
+    {
+      "@type": "Distance",
+      "name": "78 inches"
+    }
+  ],
+  "depth": [
+    {
+      "@type": "Distance",
+      "name": "42 inches"
+    }
+  ],
+  "methodOfProduction": "Mold Cast",
+  "edition": 8,
+  "sizeOfEditon": 9,
+  "numberOfFoundryProofs": 3,
+  "foundryMoldsCanceledOrDestroyed": null,
+  "signedByArtist": true,
+  "insigniaOfFoundry": true,
+  "insigniaOfMoralRightsClaimant": true
 }
