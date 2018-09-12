@@ -1,0 +1,13 @@
+{
+  "name": "Dave McPufflestein",
+  "image": "https://storage.googleapis.com/opensea-prod.appspot.com/puffs/3.png", 
+  "description": "Generic puff description. This really should be customized.", 
+  "attributes": {
+    "level": 3,
+    "weapon_power": 55,
+    "personality": "sad", 
+    "stamina": 11.7
+  },
+  "external_url": "https://cryptopuff.io/3", 
+  "background_color": "00FFFF"
+}
